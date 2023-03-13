@@ -1,1 +1,1 @@
-int xray;
+int xray = 'x'+'r'+'a'+'y';
