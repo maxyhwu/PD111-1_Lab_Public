@@ -1,1 +1,1 @@
-int may;
+int may = 'm' + 'a' + 'y';
