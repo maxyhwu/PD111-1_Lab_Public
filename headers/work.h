@@ -1,1 +1,1 @@
-int work;
+int work = 'w' + 'o' + 'r' + 'k';
