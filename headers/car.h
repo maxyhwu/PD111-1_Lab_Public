@@ -1,1 +1,1 @@
-int car;
+int car = 'c' + 'a' + 'r';
