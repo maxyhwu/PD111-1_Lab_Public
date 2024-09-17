@@ -1,1 +1,1 @@
-int now;
+int now = 'n' + 'o' + 'w';
