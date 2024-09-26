@@ -1,1 +1,1 @@
-int apple;
+int apple = 'a' + 'p' + 'p' + 'l' + 'e';
