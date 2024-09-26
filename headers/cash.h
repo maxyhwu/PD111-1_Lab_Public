@@ -1,1 +1,1 @@
-int cash;
+int cash = 'c' + 'a' + 's' + 'h';
