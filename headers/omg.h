@@ -1,1 +1,1 @@
-int omg;
+int omg = 323;
