@@ -1,1 +1,1 @@
-int yoyo;
+int yoyo = 'y'+'o'+'y'+'o'; 
